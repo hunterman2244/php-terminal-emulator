@@ -2,7 +2,7 @@
 	
 	//Me mashing my keyboard, aka uncrackable password.
 	//Don't want to accidentally leave this lying around unsecure.
-	$password = 'b*d34bai8(XO>UelgxiX(OEuxi9p,i9iboknX<*X>I<BShbiboetbxRLRBI.d,04d3id0X<*($#X980{I$0d';
+	$password = 'poopoo22';
 	
 	session_start();
 	
